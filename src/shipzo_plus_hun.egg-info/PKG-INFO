@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: shipzo_plus_hun
-Version: 0.1.2
+Version: 0.1.3
 Summary: Shipzo Plus 기능을 제공하는 패키지
 Author-email: hun0219 <gsw98000@gmail.com>
 License: MIT
@@ -10,19 +10,16 @@ Requires-Python: >=3.9
 Description-Content-Type: text/markdown
 
 ## pyproject.py
-![image](https://github.com/user-attachments/assets/ff31d59b-bd25-4ec2-99b8-55e01ac7f1be)
+![image](https://github.com/user-attachments/assets/a3fef14e-0cc1-46ce-b3a3-eeb7aba16514)
 ## plus.py
 ```
+#더하기
 import sys
 
-def plus(a, b):
-    return a + b
-
-def main():
-    args = sys.argv[1:]
-    a = int(args[0])
-    b = int(args[1])
-    print(plus(a, b))
+def plus():
+    a = sys.argv[1]
+    b = sys.argv[2]
+    print(int(a) + int(b))
 ```
 ## plus.py 결과
 ![image](https://github.com/user-attachments/assets/22b03f79-326b-4507-99fb-e514518d9f48)
