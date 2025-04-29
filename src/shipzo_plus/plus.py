@@ -1,9 +1,10 @@
 import sys
 
-def plus():
+def plus(a, b):
+    return a + b
 
-    print(int(b)+int(c))
-
-    a = sys.argv[0]
-    b = sys.argv[1]
-    c = sys.argv[2]
+def main():
+    args = sys.argv[1:]
+    a = int(args[0])
+    b = int(args[1])
+    print(plus(a, b))
