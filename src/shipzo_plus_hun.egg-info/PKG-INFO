@@ -1,9 +1,11 @@
 Metadata-Version: 2.4
-Name: shipzo_plus
-Version: 0.1.0
+Name: shipzo_plus_hun
+Version: 0.1.1
 Summary: Shipzo Plus 기능을 제공하는 패키지
 Author-email: hun0219 <gsw98000@gmail.com>
 License: MIT
+Project-URL: Homepage, https://github.com/hun0219/shipzo_plus
+Project-URL: Issues, https://github.com/hun0219/shipzo_plus/Issues
 Requires-Python: >=3.9
 Description-Content-Type: text/markdown
 
