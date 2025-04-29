@@ -1,5 +1,5 @@
 ## pyproject.py
-![image](https://github.com/user-attachments/assets/f7ce440e-0812-45b5-8f69-387d44f9443c)
+![image](https://github.com/user-attachments/assets/aca44e6e-42d1-42b4-bebf-3d2b9b752202)
 ## plus.py
 ```
 #더하기
@@ -14,4 +14,7 @@ def main():
     plus(a, b)
 ```
 ## plus.py 결과
+### pip install .
+![image](https://github.com/user-attachments/assets/f23402c7-5c92-4920-8b28-1c9250fb5fab)
+### python
 ![image](https://github.com/user-attachments/assets/22b03f79-326b-4507-99fb-e514518d9f48)
