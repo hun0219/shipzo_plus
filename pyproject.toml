@@ -1,6 +1,6 @@
 [project]
 name = "shipzo_plus_hun"
-version = "0.1.1"
+version = "0.1.2"
 description = "Shipzo Plus 기능을 제공하는 패키지"
 authors = [
     {name = "hun0219", email = "gsw98000@gmail.com"},

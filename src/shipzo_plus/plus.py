@@ -1,10 +1,7 @@
+#더하기
 import sys
 
-def plus(a, b):
-    return a + b
-
-def main():
-    args = sys.argv[1:]
-    a = int(args[0])
-    b = int(args[1])
-    print(plus(a, b))
+def plus():
+    a = sys.argv[1]
+    b = sys.argv[2]
+    print(int(a) + int(b))
