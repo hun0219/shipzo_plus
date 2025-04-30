@@ -15,6 +15,6 @@ def main():
 ```
 ## plus.py 결과
 ### pip install .
-![image](https://github.com/user-attachments/assets/f23402c7-5c92-4920-8b28-1c9250fb5fab)
+![image](https://github.com/user-attachments/assets/8916cdf6-db28-4847-b183-1be50cb6622d)
 ### python
 ![image](https://github.com/user-attachments/assets/22b03f79-326b-4507-99fb-e514518d9f48)
