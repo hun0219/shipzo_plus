@@ -1,5 +1,5 @@
 ## pyproject.py
-![image](https://github.com/user-attachments/assets/aca44e6e-42d1-42b4-bebf-3d2b9b752202)
+![image](https://github.com/user-attachments/assets/ad1409fc-90be-4ee2-b520-dd7a2b80d2f1)
 ## plus.py
 ```
 #더하기
